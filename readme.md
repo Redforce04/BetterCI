@@ -3,6 +3,9 @@
 
 This plugin is currently a work in progress, originally designed for synapsesl by Ace, and adapted for Exiled by Redforce04.
 
+## Subclasses
+|Type||
+
 
 ## Configs
 |Type|Config Name|Description|Default Config|
